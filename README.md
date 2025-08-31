@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Collins Karani 👋
 
-<!--
-**CollinsKaraniMMunya/CollinsKaraniMMunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @Maseno University (Kenya)
+🔐 Cybersecurity & python . Recon & Bug Bouty
+📩 Reach me at collinskarani4386@gmail.com
 
-Here are some ideas to get you started:
+##What I'm doing
+-learning: python,secrity engineering, automation
+- Projects: 'sapientia-cli' ,'cybersecurity labs' , 'python playgrond'
+- writing notes and documenting my journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+-Languages:python, bash, java, pascal ,sql etc
+-Tools:Git,Kali Linux, VS Code,Burpesuit,nmap etc
+-Focus:Recon ,Scripting ,Automation , Bugbounty
+
+##How I work
+- Clean READMEs, meaningful commits, small PRs
+- Security-first (no secxrets in repos ,gitignore ,dependabot on)
