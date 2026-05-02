@@ -19,10 +19,7 @@ I thrive on learning new technologies and applying them to create robust and eff
 
 ## 💡 Featured Projects
 
-*(This section will be updated with your projects as they are developed. For now, it serves as a placeholder.)*
 
-*   **Project Name 1:** Brief description of Project 1.
-*   **Project Name 2:** Brief description of Project 2.
 
 ## 🤝 Let's Connect!
 
