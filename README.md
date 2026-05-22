@@ -26,7 +26,7 @@ I thrive on learning new technologies and applying them to create robust and eff
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
 
 *   **LinkedIn:** (https://linkedin.com/in/collinskarani)
-*   **Email:** (mailto:collinskarani4386@gmail.com)
+*   **Email:** (collinskarani4386@gmail.com)
 
 ---
 
